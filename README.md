@@ -1,6 +1,3 @@
-
-Dưới đây là phiên bản chuyên nghiệp hơn của nội dung README.md mà bạn đã cung cấp:
-
 ESP-NOW Joystick Integration
 Lưu Ý Quan Trọng
 Xác Định Địa Chỉ MAC:
